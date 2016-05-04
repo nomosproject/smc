@@ -121,7 +121,7 @@ Businesses in the City must also pay a business license tax. For provisions rega
 <tr>
 <td>6.214</td>
 <td>Tow Company Licenses and Regulations</td>
-<td>6-58</td>
+<td>6-61</td>
 </tr>
 <tr>
 <td>6.222</td>

@@ -25,7 +25,7 @@ This title is intended for those provisions of the Code which relate to City par
 <tr>
 <td>18.16</td>
 <td>Regulations Pertaining to Specific Park and Recreation Areas</td>
-<td>18-19</td>
+<td>18-16</td>
 </tr>
 <tr>
 <td>18.20</td>

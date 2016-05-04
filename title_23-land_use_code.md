@@ -102,7 +102,7 @@ This title is intended for those provisions of the Code which relate to the regu
 <tr>
 <td>23.43</td>
 <td>Residential Small Lot</td>
-<td>23-73</td>
+<td>23-75</td>
 </tr>
 </table>
 
@@ -113,7 +113,7 @@ This title is intended for those provisions of the Code which relate to the regu
 <tr>
 <td>23.44</td>
 <td>Residential, Single-Family</td>
-<td>23-78</td>
+<td>23-78.2</td>
 </tr>
 <tr>
 <td>23.45</td>

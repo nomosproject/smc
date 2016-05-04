@@ -50,22 +50,22 @@ This title is intended for those provisions of the Code which relate to the pres
 <tr>
 <td>14.17</td>
 <td>The Use of Criminal History in Employment Decisions</td>
-<td>14-67</td>
+<td>14-72</td>
 </tr>
 <tr>
 <td>14.18</td>
 <td>Acquisition and Use of Surveillance Equipment</td>
-<td>14-70</td>
+<td>14-81</td>
 </tr>
 <tr>
 <td>14.19</td>
 <td>Minimum Wage and Minimum Compensation Rates for Employees Performing Work in Seattle</td>
-<td>14-72</td>
+<td>14-83</td>
 </tr>
 <tr>
 <td>14.20</td>
 <td>Wage and Tip Compensation Requirements</td>
-<td>14-78</td>
+<td>14-95</td>
 </tr>
 </table>
 
@@ -1897,6 +1897,16 @@ A "legitimate business reason" shall exist where, based on information known to 
 
 An employee is covered by this Chapter 14.17 when the physical location of such services is in whole or in substantial part (at least 50 percent of the time) within the geographic boundaries of the City.
 
+
+### 14.17.020 - Prohibited Use of Arrest and Conviction Records
+
+1. No employer shall advertise, publicize, or implement any policy or practice that automatically or categorically excludes all individuals with any arrest or conviction record from any employment position that will be performed in whole or in substantial part (at least 50% of the time) within the City.
+2. An employer may perform a criminal background check on a job applicant or require a job applicant to provide criminal history information, but only after the employer has completed an initial screening of applications or resumes to eliminate unqualified applicants.
+3. An arrest is not proof that a person has engaged in unlawful conduct. Employers shall not carry out a tangible adverse employment action solely based on an employee's or applicant's arrest record.
+4. Employers may inquire about the conduct related to an arrest record. Employers shall not carry out a tangible adverse employment action solely based on the conduct relating to an arrest unless the employer has a legitimate business reason for taking such action.
+5. Employers shall not carry out a tangible adverse employment action solely based on an employee's or applicant's criminal conviction record or pending criminal charge, unless the employer has a legitimate business reason for taking such action.
+6. Before taking any tangible adverse employment action solely based on an applicant's or employee's criminal conviction record, the conduct relating to an arrest record, or pending criminal charge, the employer shall identify to the applicant or employee the record(s) or information on which they are relying and give the applicant or employee a reasonable opportunity to explain or correct that information.
+7. Employers shall hold open a position for a minimum of two business days after notifying an applicant or employee that they will be making an adverse employment decision solely based on their criminal conviction record, the conduct relating to an arrest record, or pending charge in order to provide an applicant or employee a reasonable opportunity to respond, correct or explain that information. After two business days, employers may, but are not required, to hold open a position until a pending charge is resolved or adjudicated or questions about an applicant's criminal conviction history or conduct relating to an arrest are resolved.
 
 ### 14.17.025 - Notice and posting
 

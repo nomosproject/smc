@@ -20,7 +20,7 @@ Severability clauses, when part of a codified ordinance, appear in footnote form
 
 A subject-matter index of the Code and Charter, with complete cross-referencing, is located at the end of the Code and is referenced to specific Code provisions by their individual section numbers.
 
-This supplement brings the Code up to date through Ordinance , passed March 7, 2016.
+This supplement brings the Code up to date through Ordinance , passed March 28, 2016.
 
 Municipal Code CorporationP.O. Box 2235Tallahassee, FL 32316-2235850-576-3171
 

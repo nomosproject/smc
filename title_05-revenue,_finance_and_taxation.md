@@ -181,7 +181,7 @@ This title is intended for those provisions of the Code which relate to City tax
 <tr>
 <td>5.78</td>
 <td>Gift Catalogue</td>
-<td>5-125</td>
+<td>5-126</td>
 </tr>
 <tr>
 <td>5.80</td>
@@ -982,7 +982,7 @@ Telecommunication services or telephone business also includes those activities 
 Where provisions of Chapter 82.32 RCW are incorporated in Chapter 5.55 of this Title, "Department" as used in the RCW shall refer to the "Director" as defined in SMC 5.30.025 and "warrant" as used in the RCW shall mean "citation or criminal complaint."
 
 
-#### 5.30.070 - SEVERABILITY.
+#### 5.30.070 - Severability.
 
 If any part, provision or section of this chapter is held to be void or unconstitutional, all other parts, provisions, and sections of this chapter not expressly so held to be void or unconstitutional shall continue in full force and effect.
 

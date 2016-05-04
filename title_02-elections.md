@@ -15,12 +15,12 @@ This title is intended for those provisions of the Code which relate to election
 <tr>
 <td>2.06</td>
 <td>Lobbying Regulations</td>
-<td>2-28</td>
+<td>2-32.3</td>
 </tr>
 <tr>
 <td>2.08</td>
 <td>Initiative Petitions</td>
-<td>2-32</td>
+<td>2-32.7</td>
 </tr>
 <tr>
 <td>2.12</td>
@@ -236,7 +236,7 @@ All reports required by this chapter that are filed electronically shall be cert
     2. The names and addresses of all related or affiliated committees or other persons, and the nature of the relationship or affiliation;
     3. The names, addresses, and titles of its officers; or if it has no officers, the names, addresses, and titles of its responsible leaders;
     4. The names and addresses of its campaign treasurer and campaign depository;
-    5. A STATEMENT WHETHER THE COMMITTEE IS A CONTINUING ONE;
+    5. A statement whether the committee is a continuing one;
     6. The name and office sought of each candidate whom the committee is supporting or opposing;
     7. The ballot proposition concerned, if any, and whether the committee is in favor of or opposed to such proposition;
     8. What distribution of surplus funds will be made in the event of dissolution;

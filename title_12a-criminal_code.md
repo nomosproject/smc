@@ -28,7 +28,7 @@ This title is intended for those provisions of the Code which relate to the proh
 <tr>
 <td>12A.08</td>
 <td>Offenses Against Property</td>
-<td>12-24</td>
+<td>12-24.1</td>
 </tr>
 <tr>
 <td>12A.10</td>
@@ -38,47 +38,47 @@ This title is intended for those provisions of the Code which relate to the proh
 <tr>
 <td>12A.12</td>
 <td>Offenses Against Public Order</td>
-<td>12-37</td>
+<td>12-38</td>
 </tr>
 <tr>
 <td>12A.14</td>
 <td>Weapons Control</td>
-<td>12-39</td>
+<td>12-40</td>
 </tr>
 <tr>
 <td>12A.16</td>
 <td>Offenses Against Governmental Order</td>
-<td>12-49</td>
+<td>12-48.2</td>
 </tr>
 <tr>
 <td>12A.18</td>
 <td>Offenses Against Children or Dependent Persons</td>
-<td>12-52</td>
+<td>12-51</td>
 </tr>
 <tr>
 <td>12A.20</td>
 <td>Controlled Substances</td>
-<td>12-54</td>
+<td>12-52</td>
 </tr>
 <tr>
 <td>12A.22</td>
 <td>Gambling Offenses</td>
-<td>12-56</td>
+<td>12-55</td>
 </tr>
 <tr>
 <td>12A.24</td>
 <td>Liquor Offenses</td>
-<td>12-59</td>
+<td>12-58</td>
 </tr>
 <tr>
 <td>12A.26</td>
 <td>Mayor's Emergency Powers</td>
-<td>12-64</td>
+<td>12-63</td>
 </tr>
 <tr>
 <td>12A.28</td>
 <td>Miscellaneous Offenses</td>
-<td>12-64</td>
+<td>12-63</td>
 </tr>
 <tr>
 <td>12A.30</td>
