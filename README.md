@@ -2,7 +2,7 @@
 
 This is an unofficial version of the Seattle Municipal Code (SMC) converted to Github-flavored Markdown. The official SMC can be found at Municode: [https://www2.municode.com/library/wa/seattle/codes/municipal_code](https://www2.municode.com/library/wa/seattle/codes/municipal_code).
 
-This was generated from the Municode's SMC XML and is current through May 4, 2016.
+This was generated from the Municode SMC XML and is current through May 4, 2016.
 
 ### Contributing
 
