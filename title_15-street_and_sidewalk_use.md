@@ -63,7 +63,7 @@ This title is intended for those provisions of the Code which relate to the use,
 <tr>
 <td>15.20</td>
 <td>Building Cleaning or Painting</td>
-<td>15-48.1</td>
+<td>15-49</td>
 </tr>
 <tr>
 <td>15.22</td>
@@ -103,7 +103,7 @@ This title is intended for those provisions of the Code which relate to the use,
 <tr>
 <td>15.38</td>
 <td>Impounding</td>
-<td>15-68</td>
+<td>15-68.1</td>
 </tr>
 <tr>
 <td>15.40</td>

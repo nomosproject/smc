@@ -64,7 +64,7 @@ This title is intended for those provisions of the Code which relate to the regu
 <tr>
 <td>11.25</td>
 <td>Parade Permits</td>
-<td>11-52</td>
+<td>11-52.1</td>
 </tr>
 <tr>
 <td>11.26</td>
@@ -168,17 +168,17 @@ This title is intended for those provisions of the Code which relate to the regu
 <tr>
 <td>11.57</td>
 <td>Motorcycle Regulations</td>
-<td>11-119</td>
+<td>11-120</td>
 </tr>
 <tr>
 <td>11.58</td>
 <td>Miscellaneous Driving Rules</td>
-<td>11-121</td>
+<td>11-122</td>
 </tr>
 <tr>
 <td>11.59</td>
 <td>Obedience to Peace Officers and Authorized Personnel</td>
-<td>11-128</td>
+<td>11-128.1</td>
 </tr>
 <tr>
 <td>Part 6 Special Driving and Operating Regulations</td>
@@ -229,7 +229,7 @@ This title is intended for those provisions of the Code which relate to the regu
 <tr>
 <td>11.70</td>
 <td>Method of Parking</td>
-<td>11-149</td>
+<td>11-148</td>
 </tr>
 <tr>
 <td>11.72</td>
